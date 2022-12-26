@@ -1,0 +1,5 @@
+
+1) git add .
+2) git status
+3) git commit -m "Pwskills commit 1"
+4) git push -u origin master
