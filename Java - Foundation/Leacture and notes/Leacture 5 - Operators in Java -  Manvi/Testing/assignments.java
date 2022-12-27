@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class assignments {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // 1)Write a program to add 8 to the number x and then divide it by 3. Now, the
