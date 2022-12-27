@@ -1,7 +1,8 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
-// 1)
+// 1) Print the sum of the first 5 decimal numbers from 1 to 5 in binary format.
+
 // int main()
 // {
 //     int sum = 0;
@@ -21,7 +22,8 @@ using namespace std;
 //     cout << ans << endl;
 // }
 
-// 2)
+// 2)iven a natural number, find the number of 0’s in the binary representation of that number
+
 // int main()
 // {
 //     int num;
@@ -38,7 +40,8 @@ using namespace std;
 //     cout<<count<<endl;
 // }
 
-// 3)
+// 3)Given two binary numbers, return the greatest of these numbers in decimal format.
+
 int main()
 {
     int num1, num2;
