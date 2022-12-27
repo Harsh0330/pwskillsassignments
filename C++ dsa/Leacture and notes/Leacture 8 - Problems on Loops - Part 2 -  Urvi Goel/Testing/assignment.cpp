@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    // 1)
+    // 1) Write a program to calculate factorial of a number.
+
     // #include <iostream>
     // using namespace std;
     // int main()
@@ -17,8 +18,8 @@ int main()
     //     }
     // }
 
-    // 2)
-    // All armstrong 100 to 500
+    // 2)Write a program to print all Armstrong numbers between 100 to 500
+
     // #include <iostream>
     // using namespace std;
     // int main()
@@ -40,8 +41,7 @@ int main()
     //     }
     // }
 
-    // 2)
-    // sum of natual n number
+    // 3)Write a program to find the sum of n natural number.
     // #include <iostream>
     // using namespace std;
     // int main()
@@ -56,8 +56,8 @@ int main()
     //     cout << sum;
     // }
 
-    // 3)
-    // reverse digit
+    // 4)Write a program to reverse a given integer number
+
     // #include <iostream>
     // using namespace std;
     // int main()
@@ -74,8 +74,8 @@ int main()
     //     cout << a;
     // }
 
-    // 4)
-    // x digit
+    // 5)Write a program to print the cross pattern given below (in the shape of X)
+
     // #include <iostream>
     // using namespace std;
     // int main()
@@ -99,7 +99,8 @@ int main()
     //     }
     // }
 
-    // 5)
+    // 6)Write a program to print alphabet diamond pattern
+
     // int size;
     // cin >> size;
     // int alpha = 65;
@@ -131,7 +132,8 @@ int main()
     //     cout << "\n";
     // }
 
-    // 6)
+    // 7)Write a program to print + pattern given below
+
     // int n, i, j;
     // cin >> n;
     // for (i = 0; i < n; i++)
@@ -149,6 +151,7 @@ int main()
     //                 cout << "*";
     //             }
     //             else
+
     //             {
     //                 cout << " ";
     //             }
@@ -157,27 +160,8 @@ int main()
     //     cout << endl;
     // }
 
-    // 7)
-    // int n, i, j;
-    // cin >> n;
-    // int a = 0;
-    // for (i = 1; i <= n; i++)
-    // {
-    //     if (n % i == 0)
-    //     {
-    //         a++;
-    //     }
-    // }
-    // if (a == 2)
-    // {
-    //     cout << "Prime";
-    // }
-    // else
-    // {
-    //     cout << "Not Prime";
-    // }
+    // 8)Write a C++ program to print a triangle of prime numbers upto given number of lines of the triangle.
 
-    // 8)
     // int x1;
     // int x2;
     // int x3;
@@ -218,7 +202,7 @@ int main()
     //     d--;
     // }
 
-    // 9)
+    // 9)Write a C++ program to check whether a Number can be expressed as a Sum of Two Prime Numbers.
     // int num, i, j;
     // int f1 = 1, f2 = 1, f3 = 0;
     // cout << "Enter a +ve Integar : ";
@@ -260,7 +244,7 @@ int main()
     //     cout << num << " can not be expressed as sum of two prime numbers.";
     // }
 
-    // 10)
+    // 10)Write a C++ program to print a rectangle out of *
     // int i, j, a, b;
     // cin >> a >> b;
     // for (i = 1; i <= a; i++)

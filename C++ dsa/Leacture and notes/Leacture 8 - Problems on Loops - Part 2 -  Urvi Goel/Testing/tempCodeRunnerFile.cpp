@@ -1,4 +1,4 @@
-  int i, j, a, b;
+int i, j, a, b;
     cin >> a >> b;
     for (i = 1; i <= a; i++)
     {
