@@ -34,15 +34,33 @@ public class test {
         // System.out.println(rev);
 
         // 4)Sum of the series 1-2+3-4...n
-        int ans = 0;
-        int n = sc.nextInt();
-        for (int i = 1; i <= n; i++) {
-            if (i % 2 == 0) {
-                ans -= i;
-            } else {
-                ans += i;
-            }
-        }
-        System.out.println(ans);
+        // int ans = 0;
+        // int n = sc.nextInt();
+        // for (int i = 1; i <= n; i++) {
+        // if (i % 2 == 0) {
+        // ans -= i;
+        // } else {
+        // ans += i;
+        // }
+        // }
+        // System.out.println(ans);
+
+        // 5)Factorial of n
+        // int fact = 1;
+        // int n = sc.nextInt();
+        // for (int i = 1; i <= n; i++) {
+        // fact *= i;
+        // System.out.println("Factorial of " + i + " is : " + fact);
+        // }
+
+        // 6)a power b
+        // int a = sc.nextInt();
+        // int b = sc.nextInt();
+        // int ans = 1;
+        // for (int i = 1; i <= b; i++) {
+        // ans *= a;
+        // }
+        // System.out.println(ans);
+        // System.out.println(Math.pow(a, b));
     }
 }
