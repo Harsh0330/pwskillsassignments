@@ -5,6 +5,8 @@
         "ostream": "cpp",
         "conio.h": "c",
         "numeric": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "bitset": "cpp",
+        "array": "cpp"
     }
 }
