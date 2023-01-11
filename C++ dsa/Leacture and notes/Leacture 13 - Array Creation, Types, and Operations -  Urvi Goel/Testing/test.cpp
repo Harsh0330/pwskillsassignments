@@ -3,6 +3,13 @@
 using namespace std;
 int main()
 {
-    int array[5] = {1, 2, 3, 4, 5};
-    cout << sizeof(array) << endl;
+    int array[5];
+    for(int i:array)
+    {
+        cin >> i;
+    }
+    for(int i:array)
+    {
+        cout << i << endl;
+    }
 }

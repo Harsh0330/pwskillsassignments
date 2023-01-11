@@ -29,16 +29,16 @@ public class test {
         // System.out.println(ans);
 
         // 2)decimal to binary
-        int n = sc.nextInt();
-        int ans = 0;
-        int pw = 1;
-        while (n != 0) {
-            int rem = n % 2;
-            ans += (rem * pw);
-            n = n / 2;
-            System.out.println(n);
-            pw *= 10;
-        }
-        System.out.println(ans);
+        // int n = sc.nextInt();
+        // int ans = 0;
+        // int pw = 1;
+        // while (n != 0) {
+        // int rem = n % 2;
+        // ans += (rem * pw);
+        // n = n / 2;
+        // System.out.println(n);
+        // pw *= 10;
+        // }
+        // System.out.println(ans);
     }
 }
